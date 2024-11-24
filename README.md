@@ -1,2 +1,2 @@
 Rigid/soft body physics engine with analytically computed forces and collisions. 
-![image](https://github.com/user-attachments/assets/bc8c9d2b-e5a3-475f-8eca-cab03f61de4d)
+![2024-11-2317-49-50-ezgif com-cut](https://github.com/user-attachments/assets/79ac468f-f62b-4ccb-9448-d42454918258)
